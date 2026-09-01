@@ -1,12 +1,4 @@
 
-
-## 👋 About Me
-
-I'm **Israt Jahan**, an aspiring **Full Stack Web Developer** focused on building practical web applications and developing strong problem-solving skills.
-
-I'm continuously improving through hands-on projects, experimentation, debugging, and learning how technologies work behind the scenes.
-
-> **Learn → Build → Test → Debug → Improve**
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,40:243B55,75:00C9A7,100:00F5A0&height=250&section=header&text=Israt%20Jahan&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20%7C%20Security%20Enthusiast&descAlignY=58&descSize=19&descColor=E2E8F0" width="100%"/>

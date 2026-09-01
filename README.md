@@ -1,16 +1,39 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:00FF9C,100:203a43&height=220&section=header&text=Israt%20Jahan&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Web%20Developer%20in%20Progress&descAlignY=65&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0B3B4A,100:00C896&height=230&section=header&text=Israt%20Jahan&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20Security%20Enthusiast&descAlignY=60&descSize=18&descColor=CBD5E1" width="100%"/>
 
-### 💻 HTML • CSS • JavaScript • PHP • Laravel • MySQL
+<h3>Full Stack Web Developer in Progress</h3>
 
-**Web Security & Bug Bounty Enthusiast 🔐 | Windows & Linux Learner**
+<p>
+Building modern, responsive and practical web applications while continuously improving my development and problem-solving skills.
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer+in+Progress;Building+Real-World+Web+Applications;Learning+%7C+Building+%7C+Breaking+%7C+Fixing;Exploring+Web+Security+%26+Bug+Bounty;Always+Learning+Something+New" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00C896&center=true&vCenter=true&width=850&lines=Full+Stack+Web+Development;JavaScript+%7C+PHP+%7C+Laravel+%7C+MySQL;Building+Real-World+Web+Applications;Exploring+Web+Security+%26+Bug+Bounty;Learn+%E2%86%92+Build+%E2%86%92+Test+%E2%86%92+Improve" alt="Typing SVG" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JavaScript-00C896?style=for-the-badge" alt="Frontend"/>
+<img src="https://img.shields.io/badge/Backend-PHP%20%7C%20Laravel-0F766E?style=for-the-badge" alt="Backend"/>
+<img src="https://img.shields.io/badge/Database-MySQL-2563EB?style=for-the-badge" alt="Database"/>
+<img src="https://img.shields.io/badge/Security-Web%20Security-7C3AED?style=for-the-badge" alt="Security"/>
+
+<br><br>
+
+<a href="https://github.com/isratjahan-dev">
+<img src="https://img.shields.io/badge/GitHub-isratjahan--dev-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
 
 </div>
 
 ---
+
+## 👋 About Me
+
+I'm **Israt Jahan**, an aspiring **Full Stack Web Developer** focused on building practical web applications and developing strong problem-solving skills.
+
+I'm continuously improving through hands-on projects, experimentation, debugging, and learning how technologies work behind the scenes.
+
+> **Learn → Build → Test → Debug → Improve**
 
 ## 👋 About Me
 

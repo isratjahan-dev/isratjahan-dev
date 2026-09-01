@@ -26,13 +26,6 @@
 
 </div>
 
----
-
-## 👋 About Me
-
-I'm **Israt Jahan**, an aspiring **Full Stack Web Developer** passionate about learning, building, and solving real-world problems through technology.
-
-I started my journey with the fundamentals of web development and I'm continuously improving through practical learning, experimentation, troubleshooting, and hands-on projects.
 # 👋 About Me
 
 I'm **Israt Jahan**, an aspiring **Full Stack Web Developer** passionate about learning, building, and solving real-world problems through technology.

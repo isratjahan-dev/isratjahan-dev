@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
 </div>
-
+----
 # 👋 About Me
 
 I'm **Israt Jahan**, an aspiring **Full Stack Web Developer** passionate about learning, building, and solving real-world problems through technology.

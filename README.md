@@ -1,3 +1,22 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:00FF9C,100:203a43&height=220&section=header&text=Israt%20Jahan&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Web%20Developer%20in%20Progress&descAlignY=65&descSize=18" width="100%"/>
+
+### 💻 HTML • CSS • JavaScript • PHP • Laravel • MySQL
+
+**Web Security & Bug Bounty Enthusiast 🔐 | Windows & Linux Learner**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer+in+Progress;Building+Real-World+Web+Applications;Learning+%7C+Building+%7C+Breaking+%7C+Fixing;Exploring+Web+Security+%26+Bug+Bounty;Always+Learning+Something+New" alt="Typing SVG" />
+
+</div>
+
+---
+
+## 👋 About Me
+
+I'm **Israt Jahan**, an aspiring **Full Stack Web Developer** passionate about learning, building, and solving real-world problems through technology.
+
+I started my journey with the fundamentals of web development and I'm continuously improving through practical learning, experimentation, troubleshooting, and hands-on projects.
 # 👋 About Me
 
 I'm **Israt Jahan**, an aspiring **Full Stack Web Developer** passionate about learning, building, and solving real-world problems through technology.

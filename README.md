@@ -1,31 +1,4 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0B3B4A,100:00C896&height=230&section=header&text=Israt%20Jahan&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20Security%20Enthusiast&descAlignY=60&descSize=18&descColor=CBD5E1" width="100%"/>
-
-<h3>Full Stack Web Developer in Progress</h3>
-
-<p>
-Building modern, responsive and practical web applications while continuously improving my development and problem-solving skills.
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00C896&center=true&vCenter=true&width=850&lines=Full+Stack+Web+Development;JavaScript+%7C+PHP+%7C+Laravel+%7C+MySQL;Building+Real-World+Web+Applications;Exploring+Web+Security+%26+Bug+Bounty;Learn+%E2%86%92+Build+%E2%86%92+Test+%E2%86%92+Improve" alt="Typing SVG" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JavaScript-00C896?style=for-the-badge" alt="Frontend"/>
-<img src="https://img.shields.io/badge/Backend-PHP%20%7C%20Laravel-0F766E?style=for-the-badge" alt="Backend"/>
-<img src="https://img.shields.io/badge/Database-MySQL-2563EB?style=for-the-badge" alt="Database"/>
-<img src="https://img.shields.io/badge/Security-Web%20Security-7C3AED?style=for-the-badge" alt="Security"/>
-
-<br><br>
-
-<a href="https://github.com/isratjahan-dev">
-<img src="https://img.shields.io/badge/GitHub-isratjahan--dev-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-
-</div>
-
----
 
 ## 👋 About Me
 
@@ -34,6 +7,35 @@ I'm **Israt Jahan**, an aspiring **Full Stack Web Developer** focused on buildin
 I'm continuously improving through hands-on projects, experimentation, debugging, and learning how technologies work behind the scenes.
 
 > **Learn → Build → Test → Debug → Improve**
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,40:243B55,75:00C9A7,100:00F5A0&height=250&section=header&text=Israt%20Jahan&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20%7C%20Security%20Enthusiast&descAlignY=58&descSize=19&descColor=E2E8F0" width="100%"/>
+
+<h2>✨ Full Stack Web Developer in Progress ✨</h2>
+
+<p>
+<b>💻 Web Development &nbsp; • &nbsp; 🔐 Web Security &nbsp; • &nbsp; 🚀 Continuous Learning</b>
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00F5A0&center=true&vCenter=true&width=850&lines=Building+Modern+Web+Applications;HTML+%7C+CSS+%7C+JavaScript+%7C+PHP;Laravel+%7C+MySQL+%7C+Git;Exploring+Web+Security+%26+Bug+Bounty;Learn+%E2%86%92+Build+%E2%86%92+Test+%E2%86%92+Improve" alt="Typing SVG"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+</div>
+
+---
 
 ## 👋 About Me
 

@@ -1,15 +1,14 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,40:243B55,75:00C9A7,100:00F5A0&height=250&section=header&text=Israt%20Jahan&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20%7C%20Security%20Enthusiast&descAlignY=58&descSize=19&descColor=E2E8F0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,40:243B55,75:00C9A7,100:00F5A0&height=250&section=header&text=Israt%20Jahan&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer&descAlignY=58&descSize=20&descColor=E2E8F0" width="100%"/>
 
-<h2>✨ Full Stack Web Developer in Progress ✨</h2>
+<h2>🚀 Full Stack Web Developer</h2>
 
 <p>
-<b>💻 Web Development &nbsp; • &nbsp; 🔐 Web Security &nbsp; • &nbsp; 🚀 Continuous Learning</b>
+<b>💻 Building Web Applications &nbsp; • &nbsp; 🧠 Solving Problems &nbsp; • &nbsp; 🔐 Exploring Security &nbsp; • &nbsp; 📚 Always Learning</b>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00F5A0&center=true&vCenter=true&width=850&lines=Building+Modern+Web+Applications;HTML+%7C+CSS+%7C+JavaScript+%7C+PHP;Laravel+%7C+MySQL+%7C+Git;Exploring+Web+Security+%26+Bug+Bounty;Learn+%E2%86%92+Build+%E2%86%92+Test+%E2%86%92+Improve" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00F5A0&center=true&vCenter=true&width=850&lines=Full+Stack+Web+Developer;Building+Modern+%26+Responsive+Web+Applications;HTML+%7C+CSS+%7C+JavaScript+%7C+PHP;Laravel+%7C+MySQL+%7C+Git;Exploring+Web+Security+%26+Bug+Bounty;Learn+%E2%86%92+Build+%E2%86%92+Test+%E2%86%92+Improve" alt="Typing SVG"/>
 
 <br>
 
